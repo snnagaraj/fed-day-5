@@ -45,3 +45,67 @@
     height: 100px;
     outline: solid 2px red;
 }
+.service-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.service-flex .best {
+    width: 33.33%;
+    height: 500px;
+    outline: solid 2px red;
+}
+.coa-flex {
+    display: flex;
+    height: 200px;
+    width: 100%;
+}
+.portfolio-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.portfolio-flex .india {
+    width: 33.33%;
+    height: 500px;
+    outline: solid 2px black;
+}
+.pricing-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.pricing-flex .money {
+    width: 33.33%;
+    height: 300px;
+    outline: solid 2px blue;
+}
+.team-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.team-flex .member {
+    width: 33.33%;
+    height: 300px;
+    outline: solid 2px yellow;
+}
+.contact-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact-flex .meet {
+    width: 50%;
+    height: 500px;
+    outline: solid 2px black;
+}
+.footer-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-flex .tamil {
+    width: 25%;
+    height: 300px;
+    outline: solid 2px blue;
+}
+.legel-flex {
+    width: 100%;
+    display: flex;
+    height: 100px;
+}
